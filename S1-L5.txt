@@ -1,0 +1,1 @@
+Nella cattura in https possiamo notare la presenza del protocollo TLSv1 a differenza della cattura in http il che sarebbe la criptatura dei pacchetti
